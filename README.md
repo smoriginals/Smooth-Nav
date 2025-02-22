@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/Smooth-Nav/) `Inspired by stripe.com`
+[OPEN IN BROWSER](https://smoriginals.github.io/Smooth-Nav/) `Inspired by stripe.com`
